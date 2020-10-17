@@ -1,0 +1,19 @@
+@import url("https://fonts.font.im/css?family=Alegreya+Sans|Proza+Libre");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+body{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 18px;
+	margin: 0px;
+}
+h1,h2{
+	font-family: 'Proza Libre', sans-serif;
+	font-weight: 16px;
+}
+a{
+	text-decoration: none;
+}
